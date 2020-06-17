@@ -1,4 +1,7 @@
 <resources>
     <string name="app_name">Destination</string>
     <string name="destination">destination</string>
+    <string name="continue_with_facebook">Continue with facebook</string>
+    <string name="continue_with_google">Continue with google</string>
+    <string name="no_account">Don\'t have an account? Register here</string>
 </resources>
