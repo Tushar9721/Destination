@@ -4,4 +4,8 @@
     <string name="continue_with_facebook">Continue with facebook</string>
     <string name="continue_with_google">Continue with google</string>
     <string name="no_account">Don\'t have an account? Register here</string>
+    <string name="your_location">Your location</string>
+    <string name="most_popular">Most Popular</string>
+    <string name="categories">Categories</string>
+    <string name="featured_in_dubai">Featured in Dubai</string>
 </resources>
